@@ -13,7 +13,7 @@ An interactive, 2-page executive Power BI dashboard analyzing $16.01M in total s
 
 ## 💡 Key Business Insights
 
-- **Profitability vs. Volume:** `Bed_Bath_Table` leads in total order volume (~11K orders), but `Computers_Accessories` drives significantly higher net profit (~$0.5M) despite fewer units sold.
+- **Profitability vs. Volume:** `Bed_Bath_Table` leads in total order volume (\~11K orders), but `Computers_Accessories` drives significantly higher net profit (\~$0.5M) despite fewer units sold.
 - **Regional Concentration:** Over 40% of customer orders and seller distribution are heavily concentrated in São Paulo (`SP`).
 - **Revenue Spikes:** Detailed trend analysis captured a massive Q4 sales spike driven by seasonal promotional campaigns.
 
