@@ -5,12 +5,10 @@ An interactive, 2-page executive Power BI dashboard analyzing $16.01M in total s
 ## 📸 Dashboard Previews
 
 ### Page 1: Sales & Product Profitability
-![Sales Overview]
-![loading](01-1.png)
+![Sales Overview](01-1.png)
 
 ### Page 2: Regional & Seller Concentration
-![Regional Insights]
-![loading...](02-1.png)
+![Regional Insights](02-1.png)
 ---
 
 ## 💡 Key Business Insights
